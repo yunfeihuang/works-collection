@@ -9,5 +9,5 @@ http://assets.bittyos.com/vue-components/#/cnode
 web components cnodejs示例：
 http://cnode.bittyos.com/src/module/index.html
 
-小云桌面
+小云桌面(模仿Q+的)
 http://app.bittyos.com/
