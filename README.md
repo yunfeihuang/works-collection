@@ -1,13 +1,10 @@
 # works-collection 作品集锦
 
-vue UI组件库
-http://assets.bittyos.com/vue-components/#/
+vx ui组件库
+http://vx.bittyos.com/demo
 
-vue UI组件库 cnodejs示例：
-http://assets.bittyos.com/vue-components/#/cnode
-
-web components cnodejs示例：
-http://cnode.bittyos.com/src/module/index.html
+vx ui组件库 cnodejs示例：
+http://vx.bittyos.com/demo/#/cnode
 
 小云桌面(模仿Q+的)
 http://app.bittyos.com/
