@@ -7,4 +7,4 @@ vx ui组件库 cnodejs示例：
 http://vx.bittyos.com/demo/#/cnode
 
 小云桌面(模仿Q+的)
-http://app.bittyos.com/
+http://desktop.bittyos.com/
